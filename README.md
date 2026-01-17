@@ -1,4 +1,4 @@
-# SaaS Trial Subscription Agreement (Master Open‑Source Version)  
+# SovereignStack™ SaaS Trial Subscription Agreement (Master Open‑Source Version)  
 
 **Effective Date:** January 3, 2026  
 
